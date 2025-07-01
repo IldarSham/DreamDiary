@@ -1,0 +1,10 @@
+Packages
+.build
+xcuserdata
+DerivedData/
+.DS_Store
+.swiftpm
+.env
+.env.*
+! .env.example
+.vscode
