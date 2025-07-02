@@ -4,6 +4,7 @@
 ## Особенности
 * SwiftUI.
 * Composable Architecture (TCA).
+* [Swift Dependencies](https://github.com/pointfreeco/swift-dependencies).
 * SwiftData.
 * Swift Testing.
 * Swift Charts.
