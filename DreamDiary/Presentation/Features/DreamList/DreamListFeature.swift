@@ -169,7 +169,7 @@ extension AlertState where Action == DreamListFeature.Action.Alert {
     }
   }
 }
-let calender = Calendar.current
+
 public extension Dream {
   static let mock1 = Dream(
     title: "Заблудился в чужом городе",
