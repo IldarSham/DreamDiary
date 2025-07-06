@@ -8,7 +8,7 @@
 * SwiftData.
 * Swift Testing.
 * Swift Charts.
-* SFSafeSymbols для безопасной работы с SF Symbols.
+* [SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) для безопасной работы с SF Symbols.
 * Data Seeding.
 
 ## Экраны
